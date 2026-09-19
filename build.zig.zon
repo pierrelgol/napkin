@@ -1,0 +1,13 @@
+.{
+    .name = .napkin,
+    .version = "0.0.0",
+    .fingerprint = 0x16e6899809c03ca5,
+    .minimum_zig_version = "0.16.0",
+    .dependencies = .{
+    },
+    .paths = .{
+        "build.zig",
+        "build.zig.zon",
+        "src",
+    },
+}
